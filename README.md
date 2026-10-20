@@ -30,19 +30,13 @@ Solte Espaço para atacar. O escudo pode ser usado enquanto o personagem se movi
 - Os espectros ganham velocidade e resistência.
 - Recuperação de um coração entre ondas, até o máximo de cinco.
 
-## Estrutura
-
-- `Spectral-Castle.c3p`: versão atual do projeto com escudo.
-- `docs/controles-e-mecanicas.md`: detalhes da versão e das verificações realizadas.
-- `docs/validacao.md`: roteiro de testes antes da entrega.
-
 ## Construct 3 gratuito
 
 O projeto contém 35 entradas nas folhas de eventos, duas camadas e nenhum efeito. Use uma conta gratuita, pois o modo visitante tem um limite menor de eventos.
 
 ## Estado do projeto
 
-A estrutura do arquivo foi verificada. A versão mais recente ainda precisa de uma partida completa de validação no Construct 3. Não é apresentada como uma versão Gold validada.
+A estrutura do arquivo foi verificada. A versão mais recente ainda precisa de uma partida completa de validação no Construct 3. Não é apresentada como uma versão Gold validada, e sim como uma versão Beta.
 
 ## Créditos
 
